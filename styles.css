@@ -1,0 +1,43 @@
+body {
+  background-color: #ffde7d;
+}
+
+hr {
+    background-color: #f8f3d4;
+    border-style: none;
+    height: 10px;
+    width: 50%;
+  }
+
+  h1 {
+    font-weight: bold;
+    font-family: arial black;
+    color:  #00b8a9;
+  }
+
+h2 {
+  font-weight: bold;
+  font-family: arial black;
+  color: #f6416c;
+}
+
+p {
+  font-family: Trebuchet MS;
+}
+
+table {
+  font-family: Trebuchet MS;
+}
+
+a {
+  font-weight: bold;
+  font-family: Trebuchet MS;
+}
+
+ul {
+    font-family: Trebuchet MS;
+}
+
+form {
+    font-family: Trebuchet MS;
+}
